@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">I am a Computer Science student, seeking for knowledge focused on back-end.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjipy&label=Profile%20views&color=0e75b6&style=flat" alt="manjipy" /> </p>
-
 
 - 🔭 I’m currently working on [aladdin-bot](https://github.com/yeaow1/aladdin-bot/tree/main)
 
